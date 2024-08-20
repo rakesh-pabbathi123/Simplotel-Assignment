@@ -2,7 +2,8 @@
 ## Built By
 
 - **Rakesh Pabbathi**
-
+  ## published link:https://simplotel-assignment-rakesh.onrender.com/
+### render,com website
 ## Project Overview
 
 This project demonstrates a responsive webpage design using HTML and CSS. The page includes various sections like a header with navigation, a banner, a content section, and a features section. The layout is designed to be responsive, adapting to different screen sizes for an optimal viewing experience.
